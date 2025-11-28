@@ -1,6 +1,11 @@
 # Engineering Principles
 
 ## Why Have Principles?
+Our engineering principles are not about who we are, but who we *choose* to be. They are a conscious choice that help lead us towards the organisation we aspire to be.
+
+Owned by all of us, they represent the behaviours that define our engineering culture, and those we want to apply.
+
+**We apply these principles to everything we do.**
 
 ## Our Tenets
 
