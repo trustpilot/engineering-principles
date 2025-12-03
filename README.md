@@ -21,7 +21,7 @@ We always write code that is simple to read and design systems that are easy to 
 
 ## Our Principles
 
-### Consistency over Small Improvements
+### Consistency by Default
 
 We should strive for consistency unless there is a magnitudinal improvement. That means using familiar technology or following existing patterns where they exist unless there is a significant advantage. For example, REST is the primary way systems communicate with each other; creating a new service using gRPC would be inconsistent.
 
