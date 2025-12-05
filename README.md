@@ -29,6 +29,11 @@ We should strive for consistency unless there is a magnitudinal improvement. Tha
 
 Write things down and explain the reasoning. For example, document small decisions in code comments, or for larger decisions write Architectural Decision Records (ADRs).
 
+### Start left, don't shift left
+
+Security is built into the platform from day one, not added later in CI. Secure defaults — policies, least-privilege IAM, hardened images, signing, SBOMs, enforced CI templates — ensuring teams inherit protection automatically. Applications deploy into a secure-by-default environment without extra effort or rework.
+
+
 ### Share Early, Share Often
 
 Share thoughts, designs, code, problems, incidents, and anything else as early as possible to let folk know what's going on so they can provide feedback. Share often to keep everyone informed as situations evolve.
