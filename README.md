@@ -35,7 +35,7 @@ Share thoughts, designs, code, problems, incidents, and anything else as early a
 
 ### We Succeed and Fail Together
 
-Software Engineering is a team activity where we win and lose together: there is never a single responsible individual. Run Blameless Post-Mortems (BPMs) and share problems, incidents, or project delays as soon as possible. But don't forget to celebrate our successes!
+Software Engineering is a team activity where we win and lose together: there is never a single responsible individual. Run Blameless Post-Mortems (BPMs), and share problems, incidents, or project delays as soon as possible. But don't forget to celebrate our successes!
 
 ### Prefer Small Changes
 
