@@ -3,7 +3,7 @@
 ## Why Have Principles?
 Our engineering principles are not about who we are, but who we *choose* to be. They are a conscious choice that help lead us towards the organisation we aspire to be.
 
-Owned by all of us, they represent the behaviours that define our engineering culture, and those we want to apply.
+Owned by us all, they represent the behaviours that define our engineering culture, and those we want to apply.
 
 **We apply these principles to everything we do.**
 
@@ -31,11 +31,11 @@ Write things down and explain the reasoning. For example, document small decisio
 
 ### Share Early, Share Often
 
-Share thoughts, designs, code, problems, incidents, and anything else as early as possible to let folk know what's going on and be able to provide feedback. Share often to keep folk informed as situations evolve.
+Share thoughts, designs, code, problems, incidents, and anything else as early as possible to let folk know what's going on so they can provide feedback. Share often to keep everyone informed as situations evolve.
 
 ### We Succeed and Fail Together
 
-Software Engineering is a team activity where we win and lose together: there is never a single responsible individual. Share problems, run Blameless Post-Mortems (BPMs), incidents, or project delays as soon as possible.
+Software Engineering is a team activity where we win and lose together: there is never a single responsible individual. Run Blameless Post-Mortems (BPMs), and share problems, incidents, or project delays as soon as possible. But don't forget to celebrate our successes!
 
 ### Prefer Small Changes
 
