@@ -40,3 +40,7 @@ Software Engineering is a team activity where we win and lose together: there is
 ### Prefer Small Changes
 
 Many small changes are less than the sum of their parts but they're easier to reason about. A small change is easier to give feedback on, easier to roll-back, can build confidence and comfort through frequent releases, and is harder to get “wrong”. Many small changes allow for many small improvements. And bluntly, 10KLOC PRs don’t get good reviews!
+
+### Secure by Design
+
+We’re all responsible for the security of our systems, holding them to a high bar to protect the data and money our customers trust us with. Consider how attackers, external or internal, could exploit weaknesses and unhappy paths in a design, and mitigate them before they ship. Prefer secure defaults and existing solutions over new ones, and design interfaces that are difficult to misuse rather than ones that rely on everyone using them correctly. For example, an internal service should still authenticate its callers rather than trusting the network it sits on.
