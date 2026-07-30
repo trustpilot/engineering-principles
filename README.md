@@ -43,4 +43,4 @@ Many small changes are less than the sum of their parts but they're easier to re
 
 ### Secure by Design
 
-We’re all responsible for the security of our systems, holding them to a high bar to protect the data our customers trust us with. Think about how someone could abuse a system, whether they’re outside the company or already inside it, and close those gaps before it ships. Our engineering standards for security describe what this looks like in practice, and following them is how we get there. For example, an internal service should still authenticate its callers rather than trusting the network it sits on.
+We’re all responsible for the security of our systems, holding them to a high standard to protect the data our customers trust us with. Think about how someone could abuse a system, whether they’re outside the company or already inside it, and close those gaps before it ships. Our engineering standards for security describe what this looks like in practice, and following them is how we get there. For example, an internal service should still authenticate its callers rather than trusting the network it sits on.
